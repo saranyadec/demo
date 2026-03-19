@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "Hello World from Dcoker!"
+echo "Hello World from pipeline!"
